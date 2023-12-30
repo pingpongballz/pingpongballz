@@ -1,6 +1,6 @@
 ### Hello!
 
-Im currently an EE undergrad so i suck at actual coding :slightly_smiling_face:
+Im currently an EE grad student so i suck at actual coding :slightly_smiling_face:
 
 I enjoy doing electronics stuff, mainly electronics that don't require coding (analog electronics, etc)
 
